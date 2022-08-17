@@ -15,17 +15,17 @@
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/ForB-Game-Studio">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForB-Game-Studio&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="ForB-Game-Studio Top Langs" /></a>
+          <a href="https://github.com/R3CKhi/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3CKhi&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="R3CKhi Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/ForB-Game-Studio/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ForB-Game-Studio&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ForB-Game-Studio&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/R3CKhi/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=R3CKhi&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=R3CKhi&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
   </div> <div  align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ForB-Game-Studio" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=R3CKhi" />
 
 </div>
